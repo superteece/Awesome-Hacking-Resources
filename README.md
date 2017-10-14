@@ -66,6 +66,8 @@ Sharpening Your Skills
 * [PicoCTF](https://2017game.picoctf.com/)
 * [Shellter Labs](https://shellterlabs.com/en/)
 * [Pentest Practice](https://www.pentestpractice.com/)
+* [Hack the Box Perpetual CTF](https://www.hackthebox.eu/)
+* [CTF Time - Upcoming CTF events](https://ctftime.org/)
 
 Reverse Engineering, Buffer overflow and Exploit development
 --
